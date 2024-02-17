@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About me"
-permalink: /https://mckeowr1.github.io/ryan.io/aboutme
+permalink: /aboutme
 ---
 ## Chicago
 ## Northwestern
