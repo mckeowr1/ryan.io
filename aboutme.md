@@ -2,11 +2,7 @@
 layout: page
 title: "About me"
 permalink: /aboutme
----
-## Chicago
-## Northwestern
-## Andersen Lab
-
+sections:
  - block: experience
     content:
       title: Experience
@@ -42,3 +38,7 @@ permalink: /aboutme
           description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
+---
+## Chicago
+## Northwestern
+## Andersen Lab
