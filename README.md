@@ -2,4 +2,4 @@
 Ryan was here
 
 ## About me 
-[link](/aboutme.md)
+[link](/https://mckeowr1.github.io/ryan.io/aboutme)
